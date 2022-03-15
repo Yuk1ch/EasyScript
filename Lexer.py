@@ -1,4 +1,4 @@
-from re import RegexFlag
+from re import RegexFlag # хз шо
 from tokenize import Token
 import Tokens
 from Tokens import Tokens
