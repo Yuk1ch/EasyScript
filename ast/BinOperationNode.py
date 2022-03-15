@@ -1,8 +1,8 @@
 from ast import operator
 import ExpressionNode
 from ExpressionNode import ExpressionNode
-import Tokens
-from Tokens import Token
+import core.Tokens
+from core.Tokens import Token
 
 class BinOperationNode:
     operator = Token
