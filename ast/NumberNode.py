@@ -1,5 +1,5 @@
-import Tokens
-from Tokens import Token
+import core.Tokens
+from core.Tokens import Token
 
 class NumberNode:
     number = Token
