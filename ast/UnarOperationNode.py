@@ -1,6 +1,6 @@
 from ast import operator
-import Tokens
-from Tokens import Token
+import core.Tokens
+from core.Tokens import Token
 import ExpressionNode
 from ExpressionNode import ExpressionNode
 
