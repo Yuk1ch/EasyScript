@@ -1,7 +1,7 @@
 import ExpressionNode
-import Tokens
-import Tokens
-from Tokens import Token
+import core.Tokens
+import core.Tokens
+from core.Tokens import Token
 
 class VariableNode:
     variable = Token
