@@ -1,3 +1,2 @@
-variable test = "Тест" 
-console test >> Абоба
-console "Ф"
+variable test = "Hello world!" 
+console test >> This comment
